@@ -1,0 +1,8 @@
+weights:
+  imbalance: 0.45
+  momentum: 0.25
+  mean_reversion: 0.15
+  volatility: -0.15
+base_spread_bps: 4.0
+inventory_skew_bps: 7.0
+max_quote_size: 0.02

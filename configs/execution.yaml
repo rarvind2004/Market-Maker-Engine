@@ -1,0 +1,4 @@
+latency_ms: 20
+maker_fee_bps: 1.0
+taker_fee_bps: 3.0
+partial_fill_probability: 0.35

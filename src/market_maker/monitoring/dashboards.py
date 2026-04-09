@@ -1,0 +1,1 @@
+DASHBOARDS = ["latency", "pnl", "risk"]

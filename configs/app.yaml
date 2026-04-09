@@ -1,0 +1,6 @@
+app_name: market-maker-py
+symbols:
+  - BTCUSD
+  - ETHUSD
+loop_sleep_ms: 25
+metrics_port: 9100
