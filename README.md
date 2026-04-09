@@ -1,4 +1,4 @@
-# Market Maker Py
+# Market Maker Engine
 
 A Python based event driven market making research and systems repo.
 
